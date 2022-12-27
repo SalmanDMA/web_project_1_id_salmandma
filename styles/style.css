@@ -137,6 +137,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  margin-bottom: 30px;
 }
 .two-colums__span-acent {
   line-height: 34px;
@@ -281,13 +282,13 @@
   display: flex;
   justify-content: space-between;
   margin: auto;
+  margin-bottom: 90px;
   flex-wrap: wrap;
 }
 .table__cell_theme_dark {
   margin-top: 80px;
   list-style: none;
   width: 200px;
-  margin-bottom: 80px;
 }
 .table__heading_theme_dark {
   margin-bottom: 20px;
