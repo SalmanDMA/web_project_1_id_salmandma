@@ -1,0 +1,7 @@
+.oakley__two-colums{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+}

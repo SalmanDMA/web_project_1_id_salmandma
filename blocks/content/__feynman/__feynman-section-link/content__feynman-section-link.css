@@ -1,0 +1,6 @@
+.feynman__section-link {
+  position: absolute;
+  right: 48px;
+  top: 50%;
+  z-index: 1;
+}

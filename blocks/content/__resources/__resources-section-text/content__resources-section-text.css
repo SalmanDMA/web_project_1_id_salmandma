@@ -1,0 +1,5 @@
+.resources__section-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,0 +1,17 @@
+/* animasi */
+@keyframes rotation-kaufman {
+  from {
+    transform: rotate(30deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* animasi end */
+
+.kaufman__triangle {
+  width: 660px;
+  height: 636px;
+  transform: rotate(30deg);
+  animation: rotation-kaufman 20s linear infinite;
+}

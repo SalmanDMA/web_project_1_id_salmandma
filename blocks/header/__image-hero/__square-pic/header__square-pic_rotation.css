@@ -1,0 +1,19 @@
+/* here we have two examples of selectors in order to remind you how to set styles for elements */
+@keyframes rotation {
+  from {
+    transform: rotate(-15deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.header__square-pic {
+  position: absolute;
+  top: 30px;
+  right: 0;
+  height: 568px;
+  width: 568px;
+  transform: rotate(-15deg);
+  animation: rotation 20s linear infinite;
+}
