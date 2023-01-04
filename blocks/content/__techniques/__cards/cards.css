@@ -4,4 +4,5 @@
   align-items: flex-start;
   width: 920px;
   flex-wrap: wrap;
+  column-gap: 100px;
 }
